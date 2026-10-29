@@ -1,0 +1,8 @@
+{
+  "name": "evergreen-validation-b",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "ip": "1.0.2"
+  }
+}
